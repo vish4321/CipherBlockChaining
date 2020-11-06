@@ -1,5 +1,3 @@
 # CipherBlockChaining
 
-The encryption file was given as it is, a standard cipher block chaining algorithm, and we had to design the decryption algorithm and a crack.
-
-The report contains all needed information.
+The encryption file is a standard cipher block chaining algorithm, the repo contains a decryption file (gets the plaintext with key) and a custom made crack file (retrieves the plaintext without the key)
